@@ -1,6 +1,6 @@
 # Fullstack Node + React: Livraria
 
-Aplicação fullstack simples de uma livraria: o usuário busca livros e monta sua lista de **favoritos**. O back-end é uma API em Node.js/Express que guarda os dados em arquivos JSON, e o front-end é feito em React.
+Aplicação fullstack simples de uma livraria feita em formação na Alura: o usuário busca livros e monta sua lista de **favoritos**. O back-end é uma API em Node.js/Express que guarda os dados em arquivos JSON, e o front-end é feito em React.
 
 | Pasta | Descrição | Tecnologias |
 |---|---|---|
